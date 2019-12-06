@@ -1,6 +1,6 @@
 spring:
   application:
-    name: limits-service2
+    name: limits-service-prod-config
   cloud:
     config:
       uri: localhost:8888
