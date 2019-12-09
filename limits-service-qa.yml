@@ -4,8 +4,6 @@ spring:
   cloud:
     config:
       uri: localhost:8888
-  profiles:
-    active: qa
 
 limits-service:
   minimum: 4
